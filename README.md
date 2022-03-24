@@ -1,3 +1,5 @@
+__! Deprecated - further development will be done on https://codeberg.org/codeandcreate/Amiga-QNX-Wallpaper-Remakes !__
+
 # Amiga QNX Wallpaper Remakes
 
 These wallpapers are done with gimp and are inspired by the [never released QNX for Amiga](http://www.bambi-amiga.co.uk/amigahistory/qnxpup.html).
